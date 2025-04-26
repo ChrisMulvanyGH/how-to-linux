@@ -41,3 +41,24 @@ The information found within this file are some of the more common commands that
 | Only first few lines       | `head file.txt`  | Default 10 lines; add -n 5   |
 | Only last few lines        | `tail file.txt`  | Add -f to watch a live log   |
 
+## Making, Copying, Moving, Deleting
+
+| **Action**                 | **Command           | **Example**                  |
+| -------------------------- | ------------------- | ---------------------------- |
+| Create an empty file	     | `touch story.txt`   | `touch mylist.txt`           |
+| Make a new folder	         | `mkdir Pictures`	   | `mkdir project2025`          |
+| Copy files	             | `cp old.txt new.txt`| `cp photo.jpg backup/`       |
+| Copy folders         	     | `cp -r old/ new/`   | `-r = recursive`             |
+| Move or rename	         | `mv old.txt new.txt`| `mv draft/ final/`           |
+| Delete file            	 | `rm file.txt`       | `Careful: no recycle bin!`   |
+| Delete empty folder	     | `rmdir folder`	   | `Must be empty`              |
+| Delete folder + contents	 | `rm -r folder`	   | `Think twice, then type`     |
+
+**Safety net**: add -i to ask “Are you sure?”
+**Example**: rm -i important.doc
+
+
+
+
+
+
