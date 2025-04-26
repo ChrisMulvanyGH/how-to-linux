@@ -25,7 +25,7 @@ The information found within this file are some of the more common commands that
 | know the current working directory         | `pwd`               | *print the working directory*   | `/home/alex`     |
 | see what's inside a directory              | `ls`                | *list items in directory*       | `ls /etc`        |
 | change into another directory              | `cd <directory>`    | *change directory*              | `cd Documents`   |
-| move one step up the directory hierarchy   | `cd ..`             | * .. is the parent directory*   | `cd ..`          |
+| move one step up the directory hierarchy   | `cd ..`             | *.. is the parent directory*    | `cd ..`          |
 | return home instantly                      | `cd` (nothing else) | *return to your home directory* | `cd`             |
 
 **TIP**: *Tab-key autocompletes names. Hit it twice to see choices*.
