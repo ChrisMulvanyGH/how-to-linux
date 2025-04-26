@@ -43,7 +43,7 @@ The information found within this file are some of the more common commands that
 
 ## Making, Copying, Moving, Deleting
 
-| **Action**                 | **Command           | **Example**                  |
+| **Action**                 | **Command**         | **Example**                  |
 | -------------------------- | ------------------- | ---------------------------- |
 | Create an empty file	     | `touch story.txt`   | `touch mylist.txt`           |
 | Make a new folder	         | `mkdir Pictures`	   | `mkdir project2025`          |
